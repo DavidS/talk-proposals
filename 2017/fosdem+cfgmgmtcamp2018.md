@@ -1,7 +1,8 @@
 # Working with the Puppet Development Kit
 
-Abstract: Introducing the Puppet Development Kit, a new open source project to bundle the useful tools around writing and testing puppet modules:
+Abstract: Writing good modules requires one or more local ruby installs, a tool to manage those, a number of testing and quality tools, and tools to manage those, and one of the templates to get started. If this sounds tedious to you, there are good news: the Puppet Development Kit is a new open source tool that bundles all the useful tools around writing and testing puppet modules:
 
+* puppet agent's ruby
 * metadata-json-lint
 * puppet-syntax
 * puppet-lint
@@ -9,7 +10,7 @@ Abstract: Introducing the Puppet Development Kit, a new open source project to b
 * rspec-puppet-facts
 * rubocop
 
-David will take you through each of the tools, how they are used, and how they are useful. A great introduction for newcomers, and a good refresher for old hands.
+David will take you through each of the tools, how they help you write better modules, and how they are used. A great introduction for newcomers, and a good refresher for old hands.
 
 # Painless Puppet Providers
 
@@ -21,13 +22,17 @@ In this talk I'll give an overview of the new API, and how to write providers us
 
 # Getting to 100% Coverage with Ruby
 
-Abstract: Many talk about TDD, but few practice it. In Ruby, the testing library rspec provides a great base to get going. David will show the techniques to build and stay with 100% code coverage on two real-life projects, and talk about the advantages, and pitfalls learned.
+Abstract: Many talk about TDD, but few practice it.  In Ruby, the testing library rspec provides a great base to get going. David will show the techniques to build and stay with 100% code coverage on a real-life project, and talk about the advantages of reaching 100%, and pitfalls learned. There will be code examples.
 
-Some basic Ruby knowledge required.
+Some basic Ruby knowledge helpful.
+
+(submit this to Testing dev room)
 
 # Small Team, Big Success with Cloud CI
 
 Abstract: Or, "How we move fast, and don't break things". How the Puppet Developer Experience and the Modules team at Puppet provide quick feedback across platforms on code changes using the cloud services Travis-CI and Appveyor. Examples will be mostly based on ruby and puppet, but show general patterns to improve cycle times, and provide better feedback.
+
+(submit this to Testing dev room)
 
 # Introduction to Testing Puppet Modules
 
