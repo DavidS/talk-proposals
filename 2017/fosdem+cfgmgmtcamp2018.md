@@ -22,15 +22,15 @@ In this talk I'll give an overview of the new API, and how to write providers us
 
 # Getting to 100% Coverage with Ruby
 
-Abstract: Many talk about TDD, but few practice it.  In Ruby, the testing library rspec provides a great base to get going. David will show the techniques to build and stay with 100% code coverage on a real-life project, and talk about the advantages of reaching 100%, and pitfalls learned. There will be code examples.
+Abstract: Many talk about BDD, and TDD, but few practice it.  In Ruby, the testing library rspec provides a great base to get going with both. The first half of the talk will be a overview of rspec's flavour of Behaviour Driven Development, and how to think specification first. Then David will show the techniques to build and stay with 100% code coverage on a real-life project, and talk about the advantages of reaching 100%, and pitfalls learned. There will be code examples.
 
-Some basic Ruby knowledge helpful.
+Some basic Ruby knowledge helpful, but the principles apply to anny programming system.
 
 (submit this to Testing dev room)
 
 # Small Team, Big Success with Cloud CI
 
-Abstract: Or, "How we move fast, and don't break things". How the Puppet Developer Experience and the Modules team at Puppet provide quick feedback across platforms on code changes using the cloud services Travis-CI and Appveyor. Examples will be mostly based on ruby and puppet, but show general patterns to improve cycle times, and provide better feedback.
+Abstract: Or, "How we move fast, and don't break things". How the Puppet Developer Experience and the Modules teams at Puppet provide quick feedback across platforms on open source code changes using the cloud services Travis-CI and Appveyor. Examples will be mostly based on ruby and puppet, but show general patterns to improve cycle times, and provide better feedback.
 
 (submit this to Testing dev room)
 
