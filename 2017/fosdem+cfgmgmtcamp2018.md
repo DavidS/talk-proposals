@@ -1,4 +1,4 @@
-# Working with the Puppet Development Kit
+# Working with the Puppet Development Kit ([accepted](https://fosdem.org/2018/schedule/event/painless_puppet_providers/))
 
 Abstract: Writing good modules requires one or more local ruby installs, a tool to manage those, a number of testing and quality tools, and tools to manage those, and one of the templates to get started. If this sounds tedious to you, there are good news: the Puppet Development Kit is a new open source tool that bundles all the useful tools around writing and testing puppet modules:
 
@@ -12,7 +12,7 @@ Abstract: Writing good modules requires one or more local ruby installs, a tool 
 
 David will take you through each of the tools, how they help you write better modules, and how they are used. A great introduction for newcomers, and a good refresher for old hands.
 
-# Painless Puppet Providers
+# Painless Puppet Providers ([accepted](schedule not yet published))
 
 Abstract: Puppet's most powerful extension point is providing "native" types and providers. Ruby fragments that describe how puppet can interact with resources in our systems. This has been part of puppet's core code since the very first days, but adoption has been hampered by the API being tied up deeply into puppet's internals.
 
