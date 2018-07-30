@@ -1,7 +1,7 @@
 
 David Schmitt, Principal Software Engineer at Puppet, is programming since high school in one way or another. Previously ruby and puppet for the Modules Team, now the Puppet Development Kit, and a new Puppet Resource API.
 
-The Modules team at puppet is rsponsible for approximately 30 supported modules, all maintained on github. David will provide a short walk-through of how a a change makes its way from his laptop to the forge, the public module repository of puppet. Today we can release a hotfix release in a matter of minutes.
+The Modules team at puppet is responsible for approximately 30 supported modules, all maintained on github. David will provide a short walk-through of how a change makes its way from his laptop to the forge, the public module repository of puppet. Today we can release a hotfix release in a matter of minutes.
 
 Along the way we'll see all the integrations, checks, and balances that make that possible:
 
