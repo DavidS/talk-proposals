@@ -1,6 +1,6 @@
 https://osad-munich.org/
 
-Bio: David Schmitt, Principal Software Engineer bei Puppet, programmiert seit seiner Schulzeit. In den letzten Jahren schrieb er Ruby und Puppet für das Modules Team und den Puppet Development Kit. Aktuell verantwortlich für die neue Resource API und Netzwerkautomatisierung.
+# Continuous Delivery rund um GitHub
 
 Das Modules Team bei Puppet trägt die Verantwortung für ungefähr 30 kommerziell betreute Puppet Module die auf GitHub entwickelt und gepflegt werden. Die Module enthalten Unterstützung für "alle" Linux und Windows Varianten, und müssen mit allen aktuell genutzten Puppetversionen kompatibel sein.
 
@@ -13,3 +13,5 @@ Unterwegs werden wir alle Integration und Sicherheitskontrollen sehen, die das e
 * CI/CD mit jenkins und VMWare
 * ChatOps Integration für Benachrichtigungen und Release Management
 * automatische Changelogs
+
+Bio: David Schmitt, Principal Software Engineer bei Puppet, programmiert seit seiner Schulzeit. In den letzten Jahren schrieb er Ruby und Puppet für das Modules Team und den Puppet Development Kit. Aktuell verantwortlich für die neue Resource API und Netzwerkautomatisierung.
